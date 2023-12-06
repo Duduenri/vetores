@@ -1,8 +1,7 @@
-Brasil de Pelotas;3
-Pelotas;4
 Internacional;1
 Corinthians;1
 Vasco;2
 Coritiba;2
+Brasil de Pelotas;3
 Santa Cruz;3
-Palmeiras;2
+Pelotas;4
