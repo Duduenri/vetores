@@ -4,4 +4,5 @@ Internacional;1
 Corinthians;1
 Vasco;2
 Coritiba;2
-Santa Cruz;35
+Santa Cruz;3
+Palmeiras;2
